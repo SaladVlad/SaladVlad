@@ -10,7 +10,7 @@ I'm Vladislav, a passionate student and hobbyist from Novi Sad. I love getting a
 
 ###🏆 Experience, Awards and Competitions
 
-- 📚 Completed a course by <a href=https://cmt.edu.rs/>Foundation: Center for Young Talents</a> and getting a certifite of advanced knowledge in **C** (My earliest 'victory' in the software engeneering world 😀)
+- 📚 Completed a course by <a href=https://cmt.edu.rs/>Foundation: Center for Young Talents</a> and getting a certificate of advanced **C** knowledge (My earliest 'victory' in the Software Engeneering World 😀)
 - 🥈 Won **2nd** place in the **IEEE4 Challenge** organised at <a href=https://www.ev-days.rs/>EVDAYS</a>, which improved my problem-solving efficiency and approach towards new problems, as well as learning so much about the industry
 - Competed in a beginner **CTF cybersecurity challenge** and currently trying to qualify for the **National CS team** 🇷🇸🛡️
 
