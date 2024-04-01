@@ -6,13 +6,13 @@ I'm Vladislav, a passionate student and hobbyist from Novi Sad. I love getting a
 - 🔭 I’m currently a third-year student of Applied Computer Science at the Faculty of Technical Sciences in Novi Sad.
 - 📚 Finished high school with avid knowledge of **computer networking** which was my course of study in those 4 years. Also gained knowledge about the fundamentals of managing/administrating servers (web/file/DNS).
 - 🌱 Working on learning more about the thriving world of artificial intelligence.
-- 🛠️ Recently entered the amazing world of **cybersecyrity** and I'm constantly working towards improving my knowledge.
+- 🛠️ Recently entered the amazing world of **cybersecurity** and I'm constantly working towards improving my knowledge.
 
 ###🏆 Experience, Awards and Competitions
 
 - 📚 Completed a course by <a href=https://cmt.edu.rs/>Foundation: Center for Young Talents</a> and getting a certificate of advanced **C** knowledge (My earliest 'victory' in the Software Engeneering World 😀)
 - 🥈 Won **2nd** place in the **IEEE4 Challenge** organised at <a href=https://www.ev-days.rs/>EVDAYS</a>, which improved my problem-solving efficiency and approach towards new problems, as well as learning so much about the industry
-- Competed in a beginner **CTF cybersecurity challenge** and currently trying to qualify for the **National CS team** 🇷🇸🛡️
+- Competed in a beginner **CTF cybersecurity challenge** and currently trying to teach myself more about the topic
 
 ### 📫 How to reach me:
 - **Email: <a href="mailto:vladislav.petkovic.02@gmail.com">vladislav.petkovic.02@gmail.com</a>**
@@ -50,8 +50,11 @@ I'm Vladislav, a passionate student and hobbyist from Novi Sad. I love getting a
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-### My GitHub Stats - Upgrade In Progress ;)
+### My GitHub Stats ;)
 ![My lowly stats](https://github-readme-stats.vercel.app/api?username=SaladVlad&show_icons=true&theme=radical)
+
+### LeetCode problems solved:
+[![SaladVlad's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user5984Q&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ### Top Languages I Commited:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaladVlad&layout=compact)
