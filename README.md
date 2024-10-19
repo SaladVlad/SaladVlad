@@ -5,15 +5,16 @@ I'm Vladislav, a passionate student and hobbyist from Novi Sad. I love getting a
 ### My Studies:
 - 🔭 I’m currently a fourth (and final) year student of Applied Software Engineering at the Faculty of Technical Sciences in Novi Sad.
 - 📚 Finished high school with avid knowledge of **computer networking** which was my course of study in those 4 years. Also gained knowledge about the fundamentals of managing/administrating servers (web/file/DNS).
-- 🖥️ Currently learning the entire MERN stack on my own so I can take any role in web software development (currently focusing on React and Node.js).
-- 🌱 Expanding my knowledge in the thriving world of artificial intelligence (learning how to implement APIs into applications).
+- 🖥️ Currently learning the entire MERN stack on my own so I can take any role in web software development (currently focusing on React, as well as a bit of backend in Express).
+- 🌱 Expanding my knowledge in the thriving world of artificial intelligence (learning how to implement AI APIs into applications).
 - 🛠️ Recently entered the amazing world of **cybersecurity** and I'm constantly working towards improving my knowledge, as well as having fun solving all kinds of challenges and puzzles that I can learn from.
 
 ###🏆 Experience, Awards and Competitions
 
-- 📚 Completed a course by <a href=https://cmt.edu.rs/>Foundation: Center for Young Talents</a> and getting a certificate of advanced **C** knowledge (My earliest 'victory' in the Software Engeneering World 😀)
-- 🥈 Won **2nd** place in the **IEEE4 Challenge** organised at <a href=https://www.ev-days.rs/>EVDAYS</a>, which improved my problem-solving efficiency and approach towards new problems, as well as learning so much about the industry
-- 🧑‍💻 Competed in a beginner **CTF cybersecurity challenge** and currently trying to teach myself more about the topic
+- 📚 Completed a course by <a href=https://cmt.edu.rs/>Foundation: Center for Young Talents</a>in *2019* and getting a certificate of advanced **C** knowledge (My earliest 'victory' in the Software Engeneering World 😀)
+- 🥈 Won **2nd** place in the **IEEE4 Challenge** in *2023* organised at <a href=https://www.ev-days.rs/>EVDAYS</a>, which improved my problem-solving efficiency and approach towards new problems, as well as learning so much about the industry
+- 🧑‍💻 Competed in a beginner **CTF cybersecurity challenge** and I would love to dedicate my time towards learning more about the topic
+- 🛠️ Attended a workshop hosted by **VEGA IT** about React in *2024* and it made me much more eager to learn more about the framework. Also, it was a very good time to test my knowledge I have ammased so far.
 
 ### 📫 How to reach me:
 - **Email: <a href="mailto:vladislav.petkovic.02@gmail.com">vladislav.petkovic.02@gmail.com</a>**
