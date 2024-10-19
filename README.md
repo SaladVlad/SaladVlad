@@ -11,7 +11,7 @@ I'm Vladislav, a passionate student and hobbyist from Novi Sad. I love getting a
 
 ###🏆 Experience, Awards and Competitions
 
-- 📚 Completed a course by <a href=https://cmt.edu.rs/>Foundation: Center for Young Talents</a>in *2019* and getting a certificate of advanced **C** knowledge (My earliest 'victory' in the Software Engeneering World 😀)
+- 📚 Completed a course by <a href=https://cmt.edu.rs/>Foundation: Center for Young Talents</a> in *2019* and getting a certificate of advanced **C** knowledge (My earliest 'victory' in the Software Engeneering World 😀)
 - 🥈 Won **2nd** place in the **IEEE4 Challenge** in *2023* organised at <a href=https://www.ev-days.rs/>EVDAYS</a>, which improved my problem-solving efficiency and approach towards new problems, as well as learning so much about the industry
 - 🧑‍💻 Competed in a beginner **CTF cybersecurity challenge** and I would love to dedicate my time towards learning more about the topic
 - 🛠️ Attended a workshop hosted by **VEGA IT** about React in *2024* and it made me much more eager to learn more about the framework. Also, it was a very good time to test my knowledge I have ammased so far.
