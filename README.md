@@ -18,7 +18,7 @@ I'm Vladislav, a passionate student and hobbyist from Novi Sad. I love getting a
 
 ### 📫 How to reach me:
 - **Email: <a href="mailto:vladislav.petkovic.02@gmail.com">vladislav.petkovic.02@gmail.com</a>**
-- LinkedIn: [To-Be-Made...]
+- LinkedIn: <a href="https://www.linkedin.com/in/vladislav-petkovi%C4%87-52595a334">LinkedIn Profile</a>
 - Instagram: <a href="https://www.instagram.com/ddis._/">**@ddis._**
 
 
